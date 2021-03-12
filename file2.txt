@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 init celine
+=======
+<<<<<<< HEAD
+ini
+salut c theo qui a modifie le message
+=======
+init 
+Fichier modifié par Luis
+
+>>>>>>> a7c5b957c1a814e7d6846764769410cfaf7553fa
+>>>>>>> 0d87a53edbab3f868bb2352ea12ffd57da5bd088
